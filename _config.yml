@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "default", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C 프로그래밍"
+title                    : "음식 탐구"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이현정"
