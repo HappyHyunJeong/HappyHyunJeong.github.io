@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "이현정"
-  avatar           : # path of avatar image, e.g. "/assets/images/hello.jpeg"
+  avatar           : "/assets/images/hello.jpg"
   bio              : "맛있는 음식 알아보기"
   location         : "대한민국, 서울"
   email            : "ehj1116@gmail.com"
